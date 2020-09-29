@@ -32,3 +32,7 @@ article {
   line-height: 1.5;
   color: #aaaaaa;
 }
+
+.mission-key p {
+  font-size: 1.1rem;
+}
